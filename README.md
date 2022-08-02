@@ -30,3 +30,7 @@ Add Description to page chicken-curry
 Add unordered list of ingredients of chicken-curry
 Add ordered list of step-by-step instructions of chicken-curry
 Displayed use of <strong> ad <em> tags
+
+Step 4
+Addtion of two new recipe pages
+Addtion of link on homepage to recipe pages
